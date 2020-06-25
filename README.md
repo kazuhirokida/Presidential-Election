@@ -45,6 +45,7 @@ https://www.npr.org/2020/06/17/877951588/2020-electoral-map-ratings-biden-has-an
 https://projects.economist.com/us-2020-forecast/president
 
 * Financial Times<br/>
+https://ig.ft.com/us-election-2020/
 
 ## Campaign Finance
 
