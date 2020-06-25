@@ -3,7 +3,7 @@
 ## Forecast
 
 * Cook Political Report<br/>
-https://cookpolitical.com/analysis/national/national-politics/new-2020-electoral-college-ratings
+https://cookpolitical.com/analysis/national/national-politics/new-2020-electoral-college-ratings<br/>
 https://datawrapper.dwcdn.net/QitII/1/
 
 * 270toWin<br/>
