@@ -53,3 +53,11 @@ https://www.fec.gov/data/
 
 * ActBlue<br/>
 https://blog.actblue.com/
+
+## Covid-19
+
+* CovidExitStrategy.org<br/>
+https://www.covidexitstrategy.org/
+
+* Covid Act Now<br/>
+https://covidactnow.org/
